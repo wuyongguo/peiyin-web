@@ -16,7 +16,11 @@ WEB: <br />
 
 https://app.huangque888.com
 
-# 代码由VUE + element 编写
+# 在线演示小程序
+
+<img src="https://app.huangque888.com/cdn/gh_2c9da8149a72_258.jpg" width="200" />
+
+# 代码由VUE + element 编写,小程序uniapp，后端php
 联系方式： <br />
 邮箱：laowua99@qq.com <br />
 微信: laowua99 <br />
