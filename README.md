@@ -25,6 +25,9 @@ https://app.huangque888.com
 邮箱：laowua99@qq.com <br />
 微信: laowua99 <br />
 网站: https://app.huangque888.com <br />
+Blog: https://blog.huangque888.com <br />
+WebSite: https://www.huangque888.com <br />
+DevTools: https://tools.huangque888.com <br />
 公众号:
 <br />
 <img src="https://app.huangque888.com/cdn/erweima.png" width="200" />
